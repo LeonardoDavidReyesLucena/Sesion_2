@@ -1,0 +1,5 @@
+[{
+  "file": "C:\\Users\\ayoub\\Documents\\EjemploPasoReferencia\\EjemploPasoReferencia\\main.cpp",
+  "directory": "C:\\Users\\ayoub\\Documents\\EjemploPasoReferencia\\EjemploPasoReferencia",
+  "command": "clang++ -c C:\\Users\\ayoub\\Documents\\EjemploPasoReferencia\\EjemploPasoReferencia\\main.cpp -o C:\\Users\\ayoub\\Documents\\EjemploPasoReferencia\\EjemploPasoReferencia\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
